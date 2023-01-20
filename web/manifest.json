@@ -1,7 +1,6 @@
 {
   "name": "BluetoothSpeaker",
   "builds": [
-  "builds": [
     {
       "chipFamily": "ESP32",
       "improv": false,
